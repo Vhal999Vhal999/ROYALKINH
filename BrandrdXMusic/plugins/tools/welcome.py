@@ -3,7 +3,7 @@ from PIL import ImageDraw, Image, ImageFont, ImageChops
 from pyrogram import *
 from pyrogram.types import *
 from logging import getLogger
-from SONALI import app
+from BrandrdXMusic import app
 
 LOGGER = getLogger(__name__)
 
