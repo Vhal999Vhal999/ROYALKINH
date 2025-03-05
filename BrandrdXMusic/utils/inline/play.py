@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/II_ROYALENTRY1128_II"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/royalmusicboto"
+               text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/royalmusicboto"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
